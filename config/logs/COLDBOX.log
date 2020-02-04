@@ -1,0 +1,8 @@
+"INFO","COLDBOX","02/04/2020","13:41:10","coldbox.system.web.services.ModuleService","Module HTMLHelper unloaded successfully."
+"INFO","COLDBOX","02/04/2020","13:41:10","coldbox.system.ioc.Injector","Shutdown of Injector: 2115301 requested and started."
+"INFO","COLDBOX","02/04/2020","13:41:10","coldbox.system.ioc.Injector","Shutdown of injector: 2115301 completed."
+"INFO","COLDBOX","02/04/2020","13:41:11","coldbox.system.web.services.RoutingService","Loading Modern Router at: config.Router"
+"INFO","COLDBOX","02/04/2020","13:41:11","coldbox.system.web.services.ModuleService","Module HTMLHelper registered successfully."
+"INFO","COLDBOX","02/04/2020","13:41:11","coldbox.system.web.services.ModuleService","==> Registered All Modules in 5 ms"
+"INFO","COLDBOX","02/04/2020","13:41:11","coldbox.system.web.services.ModuleService","Module HTMLHelper activated sucessfully."
+"INFO","COLDBOX","02/04/2020","13:41:11","coldbox.system.web.services.ModuleService","==> Activated All Modules in 1 ms"
